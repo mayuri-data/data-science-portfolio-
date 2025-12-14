@@ -1,0 +1,23 @@
+# Malnutrition Risk Forecasting Using Economic Indicators
+
+## Problem Statement
+Malnutrition remains a major global health challenge, particularly in low- and middle-income countries. Traditional approaches rely on retrospective data and lack early-warning capabilities.
+
+## Objective
+To develop a machine learning model that predicts malnutrition risk using macroeconomic indicators such as food prices, inflation, GDP per capita, and unemployment.
+
+## Data Sources
+- World Bank
+- FAO
+- WHO
+- UNICEF
+
+## Methodology
+- Data collection and preprocessing from multiple global datasets
+- Exploratory Data Analysis (EDA) and correlation analysis
+- Feature selection based on statistical relevance
+- Random Forest regression model training and evaluation
+- Model explainability using SHAP values
+
+## Tools & Technologies
+Python, Pandas, NumPy, Scikit-Learn, SHAP, Matplotlib, Seaborn, Jupyter Notebook
